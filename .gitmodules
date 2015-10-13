@@ -1,0 +1,3 @@
+[submodule "usmtesis"]
+	path = usmtesis
+	url = ../usmtesis
